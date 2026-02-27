@@ -1,0 +1,49 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# =========================
+# Virtual Environments
+# =========================
+spotify_venv/
+venv/
+.env/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS / Editor files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Data handling
+# =========================
+# Keep cleaned & analytics-ready data
+# Ignore raw/archive datasets (large files)
+
+data/archive/
+data/raw/
+
+# =========================
+# Streamlit cache
+# =========================
+.streamlit/
+
+# =========================
+# Misc
+# =========================
+*.sqlite
+*.db
