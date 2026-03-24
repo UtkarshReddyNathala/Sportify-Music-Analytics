@@ -3,7 +3,7 @@
 
 # 🎧 Spotify Music Analytics Dashboard
 
-An interactive, data-driven dashboard built using **Streamlit**, **Plotly**, and **Pandas** to analyze global Spotify music trends, audio features, genre characteristics, and chart performance./
+An interactive, data-driven dashboard built using **Streamlit**, **Plotly**, and **Pandas** to analyze global Spotify music trends, audio features, genre characteristics, and chart performance.
 
 This project focuses on **exploratory data analysis and visualization**, presenting insights through clean, interactive dashboards rather than predictive modeling.
 
